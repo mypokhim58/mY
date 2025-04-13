@@ -4,15 +4,15 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://www.tvmalaysiaonline.xyz/2021/06/cinemax.html
 #EXTINF:0 tvg-name="TV1" tvg-ID="TV1.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="MY-AR",TV1
-https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_720p.m3u8|Referer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_720p.m3u8
 #EXTINF:0 tvg-name="TV2" tvg-ID="tv2.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="MY-AR",TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2|Referer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
 #EXTINF:0 tvg-name="Okey" tvg-ID="Okey.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png"MY-AR",TVOkey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3|Referer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
 #EXTINF:0 tvg-name="RTM Sport" tvg-ID="tvsukan.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png" group-title="MY-AR",RTM Sport
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4|Referer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 #EXTINF:-1 tvg-id="tv Alhijrah.my" tvg-name="TV Al Hijrah" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png" group-title="MY-AR",TV ALHijrah
-https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11edbc052354c95d3ff1/tracks-v1a1/mono.m3u8|Referer=https://www.tvmalaysia.live/
+https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11edbc052354c95d3ff1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MY-AR",TV TV3
 https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&bpkio_sessionid=10e3a8b0-cda37348-48af-469b-8c65-a9ac40bd07cd&category=all&mm_sp|Referer=https://www.tvmy.online/2021/12/tv3.html
 #EXTINF:-1 tvg-id="8tv.my" tvg-name="8TV" tvg-country="MY" tvg-language="Malay" tvg-language="Malay" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="MY-AR",8TV
